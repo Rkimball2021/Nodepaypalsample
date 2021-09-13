@@ -1,0 +1,16 @@
+{
+  "name": "nodepaypalsample",
+  "version": "1.0.0",
+  "description": "sample paypal app",
+  "main": "app.js",
+  "scripts": {
+    "test": "node aoo"
+  },
+  "author": "Ruth Kimball",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.17.1",
+    "paypal-rest-sdk": "^1.7.1"
+  }
+}
